@@ -1,0 +1,21 @@
+Task:  
+Predict the product yield for the direct arylation under the following experimental setup.
+
+Overview of the Experiment:  
+Yields were measured for the Pd-catalyzed direct arylation of 1-methyl-1H-imidazole-4-carbonitrile with 1-bromo-2-fluorobenzene in a 96-well high-throughput format, while varying phosphine ligands, bases, solvents, temperature, and substrate concentration.
+
+General Experimental Conditions:  
+- Aryl bromide (1-bromo-2-fluorobenzene): 0.02 mmol per well (1 equiv; from 0.5 M stock)  
+- Substrate (1-methyl-1H-imidazole-4-carbonitrile): 2 equiv relative to aryl bromide (final substrate concentration specified per experiment below)  
+- Pd precatalyst ([PdCl(allyl)]₂): 2.25 mol% relative to aryl bromide (dimer; 4.5 mol% Pd atoms)  
+- Ligand: 5 mol% relative to aryl bromide  
+- Base: 3 equiv relative to aryl bromide  
+- Internal standard: 4,4′-di-tert-butylbiphenyl (~5 mol% relative to substrate)  
+- Reaction time: 24 h
+
+Experimental Setup:  
+- Ligand (SMILES): {Ligand_SMILES}  
+- Base (SMILES): {Base_SMILES}  
+- Solvent (SMILES): {Solvent_SMILES}  
+- Temperature (°C): {Temp_C}  
+- Substrate concentration (M): {Concentration}

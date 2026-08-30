@@ -1,0 +1,13 @@
+Task:  
+Predict the overpotential for the oxygen evolution reaction (OER) under the following experimental setup.
+
+Overview of the Experiment:  
+Overpotential (V) for the oxygen evolution reaction (OER) on a Mn–Fe–Co–Ni–La–Ce catalyst, whose atomic fractions sum to unity, was predicted in silico using a surrogate-model emulator.
+
+Experimental Setup:  
+- Ni (atomic fraction, 0–1): {ni_load}  
+- Fe (atomic fraction, 0–1): {fe_load}  
+- Co (atomic fraction, 0–1): {co_load}  
+- Mn (atomic fraction, 0–1): {mn_load}  
+- Ce (atomic fraction, 0–1): {ce_load}  
+- La (atomic fraction, 0–1): {la_load}

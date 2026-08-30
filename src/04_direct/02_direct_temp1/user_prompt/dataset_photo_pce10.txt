@@ -1,0 +1,14 @@
+Task:  
+Predict the photodegradation of the polymer-blend film under the following experimental setup.
+
+Overview of the Experiment:  
+- The photodegradation of polymer blend films (thickness: 70–80 nm) used in organic solar cells was measured.  
+- Four components (PCE10, P3HT, PCBM, oIDTBR) were mixed in fractions that sum to 1.  
+- Samples were exposed to light from a metal-halide lamp at 1 sun intensity under ambient conditions for 18 hours.  
+- The photodegradation was quantified by the integrated absorbance loss from 300–800 nm (lower loss = higher stability).
+
+Experimental Setup:  
+- PCE10 (wt fraction, 0–1): {mat_1}  
+- P3HT (wt fraction, 0–1): {mat_2}  
+- PCBM (wt fraction, 0–1): {mat_3}  
+- oIDTBR (wt fraction, 0–1): {mat_4}

@@ -1,0 +1,21 @@
+Task:  
+Compare two experimental setups (A vs. B) for oxygen evolution reaction (OER) and predict which yields a lower OER overpotential.
+
+Overview of the Experiment:  
+Overpotential (V) for the oxygen evolution reaction (OER) on a Mn–Fe–Co–Ni–La–Ce catalyst, whose atomic fractions sum to unity, was predicted in silico using a surrogate-model emulator.
+
+Experimental Setup A:  
+- Ni (atomic fraction, 0–1): {ni_load_A}  
+- Fe (atomic fraction, 0–1): {fe_load_A}  
+- Co (atomic fraction, 0–1): {co_load_A}  
+- Mn (atomic fraction, 0–1): {mn_load_A}  
+- Ce (atomic fraction, 0–1): {ce_load_A}  
+- La (atomic fraction, 0–1): {la_load_A}
+
+Experimental Setup B:  
+- Ni (atomic fraction, 0–1): {ni_load_B}  
+- Fe (atomic fraction, 0–1): {fe_load_B}  
+- Co (atomic fraction, 0–1): {co_load_B}  
+- Mn (atomic fraction, 0–1): {mn_load_B}  
+- Ce (atomic fraction, 0–1): {ce_load_B}  
+- La (atomic fraction, 0–1): {la_load_B}

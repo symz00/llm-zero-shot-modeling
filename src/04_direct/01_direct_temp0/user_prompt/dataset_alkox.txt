@@ -1,0 +1,11 @@
+Task:  
+Predict the percent conversion for the AlcOx-mediated oxidation under the following experimental setup.
+
+Overview of the Experiment:  
+Percent conversion in the biocatalytic oxidation of benzyl alcohol by a copper radical alcohol oxidase (AlcOx) was measured at the 20-min time point while varying the loadings of the primary enzyme (AlcOx), the cocatalysts (catalase and horseradish peroxidase), and the pH.
+
+Experimental Setup:  
+- Alcohol oxidase concentration (nM): {alcohol_oxidase}  
+- Catalase concentration (μM): {catalase}  
+- Horseradish peroxidase concentration (μM): {peroxidase}  
+- pH: {ph}

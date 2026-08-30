@@ -1,0 +1,16 @@
+Task:  
+Predict the product yield for the Suzuki–Miyaura cross-coupling under the following experimental setup.
+
+Overview of the Experiment:  
+Yields were measured for Pd-catalyzed Suzuki–Miyaura cross-coupling of the aryl bromide (2-bromophenyltetrazole) with an aryl pinacol boronate (ArBpin) while varying Pd(dtbpf)Cl₂ loading, K₃PO₄ equivalents, ArBpin equivalents, and temperature.
+
+General Experimental Conditions:  
+- Aryl bromide (2-bromophenyltetrazole): 0.1 M (1 equiv)  
+- Solvent: 1-propanol  
+- Reaction time: 12 h
+
+Experimental Setup:  
+- Pd(dtbpf)Cl₂ loading (mol%, relative to aryl halide): {pd_mol}  
+- K₃PO₄ equivalents (relative to aryl halide): {k3po4}  
+- ArBpin equivalents (relative to aryl halide): {arbpin}  
+- Temperature (°C): {temperature}

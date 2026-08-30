@@ -1,0 +1,14 @@
+You are a materials scientist specializing in polymer–carbon nanotube composite thin films and their electrical characterization. Analyze the rrP3HT and CNT fraction variables to determine which experimental setup will deliver the highest electrical conductivity.
+
+Rules:  
+- After comparing the provided experimental setups A and B, respond with exactly "A" or "B" (the answer token only, no additional text).  
+- Label meanings: A = Experimental Setup A, B = Experimental Setup B.  
+- If the difference is likely negligible, still choose the slightly favored setup.  
+- Additionally, provide a confidence score for your selected option on a 1–5 scale using the following exact labels:  
+1 = Not at all confident  
+2 = Not very confident  
+3 = Neutral  
+4 = Confident  
+5 = Very confident
+
+Respond in full compliance with the provided JSON Schema.

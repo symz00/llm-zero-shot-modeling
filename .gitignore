@@ -1,0 +1,5 @@
+.venv/
+.env
+.vscode/
+ruff.toml
+__pycache__/

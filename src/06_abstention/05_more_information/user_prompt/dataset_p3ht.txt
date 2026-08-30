@@ -1,0 +1,22 @@
+Task:  
+Compare two experimental setups (A vs. B) for composite thin films and predict which yields higher electrical conductivity.
+
+Overview of the Experiment:  
+- Regio-regular poly-3-hexylthiophene (rrP3HT) is combined with four types of carbon nanotubes (CNTs) to form composite thin films.  
+- All five fractions always sum to 100 %.  
+- The CNT types are long single wall CNTs (l-SWNTs, length: 5–30 μm, OD: 1–2 nm), short single wall CNTs (s-SWNTs, length: 1–3 μm, OD: 1–2 nm), multi-walled CNTs (MWCNTs, OD: 13–18 nm), and double-walled CNTs (DWCNTs, length: 0.5–2 nm).  
+- Electrical conductivity (S/cm) was measured for each composition.
+
+Experimental Setup A:  
+- rrP3HT (fraction, 0–100 %): {p3ht_content_A}  
+- l-SWNTs (fraction, 0–100 %): {d1_content_A}  
+- s-SWNTs (fraction, 0–100 %): {d2_content_A}  
+- MWCNTs (fraction, 0–100 %): {d6_content_A}  
+- DWCNTs (fraction, 0–100 %): {d8_content_A}
+
+Experimental Setup B:  
+- rrP3HT (fraction, 0–100 %): {p3ht_content_B}  
+- l-SWNTs (fraction, 0–100 %): {d1_content_B}  
+- s-SWNTs (fraction, 0–100 %): {d2_content_B}  
+- MWCNTs (fraction, 0–100 %): {d6_content_B}  
+- DWCNTs (fraction, 0–100 %): {d8_content_B}

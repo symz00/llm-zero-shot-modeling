@@ -1,0 +1,20 @@
+Task:  
+Compare two experimental setups (A vs. B) for the photodegradation of polymer-blend films and predict which yields higher photostability.
+
+Overview of the Experiment:  
+- The photodegradation of polymer blend films (thickness: 70–80 nm) used in organic solar cells was measured.  
+- Four components (WF3, P3HT, PCBM, oIDTBR) were mixed in fractions that sum to 1.  
+- Samples were exposed to light from a metal-halide lamp at 1 sun intensity under ambient conditions for 18 hours.  
+- The photodegradation was quantified by the integrated absorbance loss from 300–800 nm (lower loss = higher stability).
+
+Experimental Setup A:  
+- WF3 (wt fraction, 0–1): {mat_1_A}  
+- P3HT (wt fraction, 0–1): {mat_2_A}  
+- PCBM (wt fraction, 0–1): {mat_3_A}  
+- oIDTBR (wt fraction, 0–1): {mat_4_A}
+
+Experimental Setup B:  
+- WF3 (wt fraction, 0–1): {mat_1_B}  
+- P3HT (wt fraction, 0–1): {mat_2_B}  
+- PCBM (wt fraction, 0–1): {mat_3_B}  
+- oIDTBR (wt fraction, 0–1): {mat_4_B}

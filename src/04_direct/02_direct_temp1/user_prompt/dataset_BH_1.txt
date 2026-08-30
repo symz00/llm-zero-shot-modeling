@@ -1,0 +1,21 @@
+Task:  
+Predict the product yield for the Buchwald–Hartwig reaction under the following experimental setup.
+
+Overview of the Experiment:  
+Yields were measured for the Pd-catalyzed Buchwald–Hartwig amination of diverse aryl halides with p-toluidine while varying phosphine ligands, bases, and additives.
+
+General Experimental Conditions:  
+- Aryl halide: 0.1 M (1 equiv)  
+- Amine (p-toluidine): 0.1 M (1 equiv)  
+- Pd precatalyst: 0.01 M (10 mol% relative to aryl halide)  
+- Base: 0.15 M (1.5 equiv relative to aryl halide)  
+- Solvent: DMSO  
+- Additive: 0.1 M (1 equiv)  
+- Temperature: 60 °C  
+- Reaction time: 16 h
+
+Experimental Setup:  
+- Aryl halide (SMILES): {Aryl_halide_SMILES}  
+- Ligand (SMILES): {Ligand_SMILES}  
+- Base (SMILES): {Base_SMILES}  
+- Additive (SMILES): {Additive_SMILES}

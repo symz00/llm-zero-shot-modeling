@@ -1,0 +1,29 @@
+Task:  
+Compare two experimental setups (A vs. B) for the Suzuki–Miyaura cross-coupling and predict which yields a higher product yield.
+
+Overview of the Experiment:  
+Yields were measured on a flow-based high-throughput platform for Pd-catalyzed Suzuki–Miyaura cross-coupling across a matrix of aryl halides and aryl boronic acids while varying phosphine ligands, bases, and solvents.
+
+General Experimental Conditions:  
+- Aryl halide: 1 equiv  
+- Boronic acid: 1 equiv relative to aryl halide  
+- Pd precatalyst (Pd(OAc)₂): 6.25 mol% relative to aryl halide  
+- Ligand: 12.5 mol% relative to aryl halide  
+- Base: 2.5 equiv relative to aryl halide  
+- Temperature: 100 °C  
+- Reaction time: 1 min  
+- Flow rate: 1 mL/min (back-pressure regulated at 100 bar)
+
+Experimental Setup A:  
+- Aryl halide (SMILES): {electrophile_A}  
+- Boronic acid (SMILES): {nucleophile_A}  
+- Ligand (SMILES): {ligand_A}  
+- Base (SMILES): {base_A}  
+- Solvent (SMILES): {solvent_A}
+
+Experimental Setup B:  
+- Aryl halide (SMILES): {electrophile_B}  
+- Boronic acid (SMILES): {nucleophile_B}  
+- Ligand (SMILES): {ligand_B}  
+- Base (SMILES): {base_B}  
+- Solvent (SMILES): {solvent_B}
